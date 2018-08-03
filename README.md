@@ -1,1 +1,4 @@
-# learnX
+# leanX
+partners:
+rishabh
+aryan
