@@ -1,4 +1,6 @@
 # leanX
-partners:
-rishabh
-aryan
+contributors:
+
+Rishabh
+
+Aryan
